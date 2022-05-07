@@ -1,3 +1,3 @@
 # :fire: Feedback Widget :fire:
 
-> Desenvolvido durante a NLW Return da @rocketseat
+> Componente React para envio de feedbacks.
