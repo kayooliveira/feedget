@@ -14,3 +14,37 @@
 > Componente React para envio de feedbacks.
 
 ### <p align="center"> feito com 💕 por [Kayo Oliveira](https://www.kayooliveira.com) </p>
+
+## :book: Stack :book:
+
+- **React**
+- **Typescript**
+- **Tailwindcss**
+- **Phosphor Icons**
+- **HeadlessUI**
+- **Html2Canvas**
+
+## 💻 Test by yourself 💻
+
+> Clone the repository
+```shell
+  $ git clone https://github.com/kayooliveira/feedget.git
+```
+
+> Install the dependencies 
+
+```shell
+  $ npm install
+  #or
+  $ yarn install
+```
+
+> Run the project
+
+```
+  $ npm run dev
+  #or
+  $ yarn dev
+```
+
+> The app will be available to test in the url http://localhost:3000 by default
