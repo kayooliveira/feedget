@@ -13,8 +13,6 @@
 
 > Componente React para envio de feedbacks.
 
-### <p align="center"> feito com 💕 por [Kayo Oliveira](https://www.kayooliveira.com) </p>
-
 ## :book: Stack :book:
 
 - **React**
@@ -48,3 +46,7 @@
 ```
 
 > The app will be available to test in the url http://localhost:3000 by default
+
+
+
+### <p align="center"> feito com 💕 por [Kayo Oliveira](https://www.kayooliveira.com) </p>
